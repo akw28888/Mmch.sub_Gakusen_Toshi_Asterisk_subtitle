@@ -22,10 +22,10 @@ Video Position: 33601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OPCN-furigana,文泉驿等宽微米黑,19,&H00FFFFFF,&H000000FF,&H20852B15,&H00000000,-1,0,0,0,100,100,5,0,1,1,0,2,10,10,10,1
+Style: OPCN-furigana,WenQuanYi Micro Hei Mono,19,&H00FFFFFF,&H000000FF,&H20852B15,&H00000000,-1,0,0,0,100,100,5,0,1,1,0,2,10,10,10,1
 Style: OPJP-furigana,DFGHSGothic-W7,15,&H00FFFFFF,&H000000FF,&H20852B15,&H00000000,0,0,0,0,100,100,5,0,1,1,0,8,10,10,10,1
 Style: OPJP,DFGHSGothic-W7,30,&H00FFFFFF,&H000000FF,&H20852B15,&H00000000,0,0,0,0,100,100,5,0,1,2,0,8,10,10,10,1
-Style: OPCN,文泉驿等宽微米黑,38,&H00FFFFFF,&H000000FF,&H20852B15,&H00000000,-1,0,0,0,100,100,5,0,1,2,0,2,10,10,10,1
+Style: OPCN,WenQuanYi Micro Hei Mono,38,&H00FFFFFF,&H000000FF,&H20852B15,&H00000000,-1,0,0,0,100,100,5,0,1,2,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
